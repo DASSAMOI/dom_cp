@@ -1,0 +1,36 @@
+body{
+    
+    padding: 0.5rem 150px 0 150px;
+}
+.nav-barre{
+    height: 100px;
+    display: flex;
+    
+}
+.nav-barre-left{
+    display: flex;
+    width: 70%;
+    
+    margin-left: 5px;
+    align-items: center;
+    
+}
+.nav-barre-right{
+    width:30%;
+   
+}
+a{
+    text-decoration: none;
+}
+.nav-links{
+    margin-left: 2rem;
+}
+.main-position{
+    display: flex;
+}
+.produit-position{
+    display: flex;
+}
+h3{
+    margin-left: 100px;
+}
